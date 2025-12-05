@@ -1,0 +1,4 @@
+Django>=4.2
+djangorestframework>=3.19
+djangorestframework-simplejwt>=6.0
+django-filter>=23.2
